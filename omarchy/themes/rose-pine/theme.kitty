@@ -1,0 +1,36 @@
+foreground              #575279
+background              #faf4ed
+selection_foreground    #575279
+selection_background    #dfdad9
+cursor                  #cecacd
+cursor_text_color       #575279
+
+# Normal colors
+color0  #f2e9e1  # black
+color1  #b4637a  # red
+color2  #286983  # green
+color3  #ea9d34  # yellow
+color4  #56949f  # blue
+color5  #907aa9  # magenta
+color6  #d7827e  # cyan
+color7  #575279  # white
+
+# Bright colors
+color8  #9893a5  # bright black
+color9  #b4637a  # bright red
+color10 #286983  # bright green
+color11 #ea9d34  # bright yellow
+color12 #56949f  # bright blue
+color13 #907aa9  # bright magenta
+color14 #d7827e  # bright cyan
+color15 #575279  # bright white
+
+# Dim colors
+color16 #9893a5  # dim black
+color17 #b4637a  # dim red
+color18 #286983  # dim green
+color19 #ea9d34  # dim yellow
+color20 #56949f  # dim blue
+color21 #907aa9  # dim magenta
+color22 #d7827e  # dim cyan
+color23 #575279  # dim white
